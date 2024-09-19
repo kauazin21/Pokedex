@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+#pokemon-display {
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+#pokemon-image {
+    width: 200px;
+    height: 200px;
+}
+
+.controls {
+    margin-top: 20px;
+}
+
+button {
+    margin: 0 10px;
+    padding: 10px;
+}
+
+input {
+    padding: 10px;
+}
